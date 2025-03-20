@@ -1,0 +1,3 @@
+/home/michael/CLionProjects/ObjectTracker/cmake-build-debug/CMakeFiles/ObjectTracker.dir
+/home/michael/CLionProjects/ObjectTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michael/CLionProjects/ObjectTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
